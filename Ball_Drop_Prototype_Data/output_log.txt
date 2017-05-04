@@ -1,0 +1,60 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1116 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1116 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pslatform assembly:UC:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prgtone.dll into Unity Child Domain
+dll (this message is harmless)
+Loading C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\Assembly-CSharp-firstpass.dll into Unity ChildPDlatfor
+m assembly: C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:PUsatform assembly: C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Deop_PrototypeADshleManaged\Assemblnityharp.dll into Unity Child Domain
+type_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\AshlePglatform asseUnitymblyf: C:\Users\t\Baleigh\Documtonts\Unity \Managed\Assembly-UnityScript.dll (this message is harmless)
+ityScript.dll (thisrs\Asshleigh\Documents\
+Unityoading C:\l test\Ball_Drop_Prototype_Data\Managed\Assembly-Unityropript.dllp into Unity Child Domain
+nityScript.dll into Unity Child Domain
+PPatformr  assembly: C:\Users\Ashleeigh\Documents\Uniy Stuffff\Ball testt\Bt\Ball_Drop_Prototypeta\Managed\UnityEngine.UI.dll (this messmessage iasmless)
+ess)
+LoaLoading C:\Users\Ashleigh\Documents\Unity St\Ball test\Ball_Drop_Pop_Prype_Data\Mataa\Managed\UnityEngine.UI.dll into Unity Chmldin
+omain
+Platform assembly: C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\UnityEngine.Networking.dll (this message is latfoesm a
+ssembLoadCing C:\Users\Ashleocuments\ents\Unity Stuff\Ball tBall_Drop_Prototype_Data\Mata\ManagityEngine.Networking.dll (thisinmessanity Child Domain
+
+Loading C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Userers\Aseigeigh\Documents\Unity Stuff\Ball test\Ball_Drop_Ptototype_Da\Managed\Ud\UtnEngine.PlaymodeTestsRunner.dll (this his message is harmles
+s)
+Loading C:\Users\Ashleigh\h\Documents\Unity Stuff\Ball test\Ball_Drop_Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Uniy Child Domaain
+- Commpleted reoadd, in 10.949 seconds
+Platform assembly: C:\Users\Ashleigh\Documents\Unity StufP\Ball test\Ball_Drop_Protos\Ashleigh\Documents\Unity Stuff\Ball te t\Ball_Drop_Prototype_
+Data\Managed\System.Core.dll (this message is harmless)
+Plattform assembly: C:\Users\Ashleigh\Documents\Unity Stuff\Ball test\Ball_DroDrop_Prototype_Data\Managed\System.dll (this message is harmles
+s)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.668970 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3048 -> priority: 1 
